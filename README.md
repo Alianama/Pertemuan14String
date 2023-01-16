@@ -54,4 +54,4 @@ print("-------------------------")
 ```
 
 Hasil Code Program Nya</br>
-![Gambar Code](screnshoot/Latihan1Code.png)</br>
+![Gambar Code](screnshoot/Latihan1Hasil.png)</br>
