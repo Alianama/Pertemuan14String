@@ -15,7 +15,43 @@ txt = 'Hello World' </br>
 - Ganti karakter H dengan karakter J</br>
 
 Code Perogram nya</br>
-![Gambar Code](screnshoot/Latihan1Code.png)</br>
+
+```python
+txt = 'Hello World'
+print(len(txt))
+
+print("-------------------------")
+
+txt = 'Hello World'
+print(txt[-1])
+
+print("-------------------------")
+
+txt = 'Hello World'
+print(txt[2:5])
+
+print("-------------------------")
+
+txt = 'Hello World'
+print(txt.replace(" ", ""))
+
+print("-------------------------")
+
+txt = 'Hello World'
+print(txt.upper())
+
+print("-------------------------")
+
+txt = 'Hello World'
+print(txt.lower())
+
+print("-------------------------")
+
+txt = 'Hello World'
+print(txt.replace("H", "J"))
+
+print("-------------------------")
+```
 
 Hasil Code Program Nya</br>
 ![Gambar Code](screnshoot/Latihan1Code.png)</br>
