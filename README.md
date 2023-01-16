@@ -63,3 +63,29 @@ print("-------------------------")
 
 Hasil Code Program Nya</br>
 ![Gambar Code](screnshoot/Latihan1Hasil.png)</br>
+
+## Latihan 2
+
+### Lengaki Code Berikut
+
+```python
+umur = 24
+txt = 'Hello, nama saya john, dan umur saya adalah
+... tahun'
+
+print(txt.format(umur))
+```
+
+Code Yang Sudah di lengkapi
+
+```python
+umur = 24
+txt = 'Hello, nama saya John, dan umur saya adalah {} tahun'
+
+print(txt.format(umur))
+```
+
+Hasil Dari Code Program nya
+![Gambar Hasil](screnshoot/latihan2.png)
+
+# Terima Kasih
